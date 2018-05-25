@@ -41,18 +41,18 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_ref_1_0_lib_webpack_markdownLoader_js_ref_1_1_README_md_vue_type_template_id_3888edd2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../node_modules/vue-loader/lib??ref--1-0!../lib/webpack/markdownLoader.js??ref--1-1!./README.md?vue&type=template&id=3888edd2 */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??ref--1-0!./lib/webpack/markdownLoader.js??ref--1-1!./docs2/README.md?vue&type=template&id=3888edd2");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_ref_1_0_lib_webpack_markdownLoader_js_ref_1_1_README_md_vue_type_template_id_3888edd2__WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_ref_3_0_lib_webpack_markdownLoader_js_ref_3_1_README_md_vue_type_template_id_3888edd2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../node_modules/vue-loader/lib??ref--3-0!../lib/webpack/markdownLoader.js??ref--3-1!./README.md?vue&type=template&id=3888edd2 */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??ref--3-0!./lib/webpack/markdownLoader.js??ref--3-1!./docs2/README.md?vue&type=template&id=3888edd2");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_ref_3_0_lib_webpack_markdownLoader_js_ref_3_1_README_md_vue_type_template_id_3888edd2__WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_ref_1_0_lib_webpack_markdownLoader_js_ref_1_1_README_md_vue_type_template_id_3888edd2__WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_ref_3_0_lib_webpack_markdownLoader_js_ref_3_1_README_md_vue_type_template_id_3888edd2__WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??ref--1-0!./lib/webpack/markdownLoader.js??ref--1-1!./docs2/README.md?vue&type=template&id=3888edd2":
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??ref--3-0!./lib/webpack/markdownLoader.js??ref--3-1!./docs2/README.md?vue&type=template&id=3888edd2":
 /*!*********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??ref--1-0!./lib/webpack/markdownLoader.js??ref--1-1!./docs2/README.md?vue&type=template&id=3888edd2 ***!
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??ref--3-0!./lib/webpack/markdownLoader.js??ref--3-1!./docs2/README.md?vue&type=template&id=3888edd2 ***!
   \*********************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -69,4 +69,4 @@ var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _
 /***/ })
 
 }]);
-//# sourceMappingURL=0.544d0fc7.js.map
+//# sourceMappingURL=0.ac1deb82.js.map
